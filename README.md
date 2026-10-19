@@ -6,6 +6,12 @@ Learning to build software — and building in public, one finished project at a
 
 ## Selected work
 
+**[carrot-defense](https://github.com/ALGSN1386/carrot-defense)** · [play](https://algsn1386.github.io/carrot-defense/)
+A browser tower defence: five towers, fifteen waves, three upgrade levels.
+Logic and rendering are fully separated, so the whole game runs headless in Node —
+the difficulty curve was tuned by simulating real playthroughs, not by guessing.
+Everything on screen is drawn procedurally; the repo contains no images.
+
 **[qq-farm](https://github.com/ALGSN1386/qq-farm)** · [play](https://algsn1386.github.io/qq-farm/)
 A browser version of the classic farm game: plant, water, harvest, steal from
 neighbours. Growth runs on real timestamps, so it keeps growing while the page is
