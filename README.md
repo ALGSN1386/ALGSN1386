@@ -2,6 +2,8 @@
 
 Learning to build software — and building in public, one finished project at a time.
 
+**Learning now:** JavaScript · front-end
+
 ## What you'll find here
 
 Only projects finished enough for someone else to run: a README that explains what
