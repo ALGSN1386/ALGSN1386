@@ -2,24 +2,22 @@
 
 Learning to build software — and building in public, one finished project at a time.
 
----
+## What you'll find here
 
-## Selected work
+Only projects finished enough for someone else to run: a README that explains what
+it does and why it exists, a way to run it, a license.
+
+I'd rather ship one thing that works than list ten that don't.
 
 <!-- ============================================================
-     有项目之后再往下加。硬规则：
-     1. 没有 README 的项目不放进来
-     2. 教程作业（todo / 计算器 / 克隆项目）不放进来
-     3. 每条必须是：[名字](链接) — 它解决什么问题 — 可验证证据
-     4. 置顶只放 2 个，因为访客只看前 2 个
+     加项目时的硬规则（渲染后不可见，编辑时天天看得见）：
+     1. 没有 README 的项目不放
+     2. 教程作业（todo / 计算器 / 克隆项目）不放
+     3. 每条格式：[名字](链接) — 解决什么问题 — 可验证证据
+     4. 置顶只放前 2 个：访客基本只点这两个
+     5. 不要 badge 墙 / trophy / streak 卡片：廉价信号，扣分
+     6. 「精通」必须扛得住连续追问三层原理
      ============================================================ -->
-
-_Coming soon — I'd rather ship one thing that works than list ten that don't._
-
-## Toolbox
-
-<!-- 只写你真正写过代码的。
-     标「精通」的必须扛得住连续追问三层原理，否则删掉。 -->
 
 ## Contact
 
