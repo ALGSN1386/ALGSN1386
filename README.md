@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm <YOUR NAME> 馃憢
 
-<!--
-**ALGSN1386/ALGSN1386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ============================================================
+     寰呭～鍐欙細鏁撮〉鏈€閲嶈鐨勪竴鍙ワ紝璁垮 10 绉掑唴鍙細璇昏繖涓€琛屻€?     鍏紡锛氥€孖 build <what> for <who>.銆?     鍙嶉潰渚嬪瓙锛氥€孭assionate developer | 10+ years | loves coding銆?     锛堝舰瀹硅瘝 = 闆朵俊鎭紝浜轰汉鍙啓锛?     ============================================================ -->
 
-Here are some ideas to get you started:
+**<涓€鍙ヨ瘽瀹氫綅锛氭垜鏋勫缓浠€涔堬紝缁欒皝鐢?**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently building
+
+<!-- 鍙啓 1 浠朵簨銆備笉瑕佸垪 5 涓€傚仛瀹屽啀鎹笅涓€涓€?-->
+
+- **<project-name>** 鈥?<瀹冭В鍐崇殑鍏蜂綋闂>
+  - 涓轰粈涔堝仛锛?浣犺嚜宸辩湡瀹為亣鍒扮殑鐥涚偣>
+  - 鐘舵€侊細<寮€鍙戜腑 / 宸叉湁 N 涓敤鎴?
+
+## Selected work
+
+<!-- 2鈥? 鏉★紝姣忔潯蹇呴』鐐瑰緱寮€銆?     纭鍒欙細娌℃湁 README 鐨勯」鐩笉鏀捐繖閲岋紱鏁欑▼浣滀笟涓嶆斁杩欓噷銆?     銆岃瘉鎹€嶅垪蹇呴』鏄彲楠岃瘉鐨勬暟瀛楁垨浜嬪疄锛屼笉鏄舰瀹硅瘝銆?-->
+
+| Project | 瑙ｅ喅鐨勯棶棰?| 璇佹嵁 |
+|---|---|---|
+| [<name>](<url>) | <涓€鍙ヨ瘽> | <stars / 鐢ㄦ埛鏁?/ benchmark / 琚皝鐢? |
+
+## Toolbox
+
+<!-- 鍙啓浣犵湡姝ｅ啓杩囩敓浜т唬鐮佺殑銆?     鏍囦负銆岀簿閫氥€嶇殑蹇呴』鎵涘緱浣忚繛缁拷闂笁灞傚師鐞嗐€?-->
+
+`<language>` 路 `<framework>` 路 `<tool>`
+
+## Where I'm reliable
+
+<!-- 鐢ㄨ瘉鎹唬鏇垮舰瀹硅瘝锛氱淮鎶よ繃鐨勫簱銆佸悎骞惰繘澶栭儴浠撳簱鐨?PR銆?     鏈夋暟鎹殑 benchmark銆佸啓杩囩殑鎶€鏈枃绔犮€?-->
+
+## Contact
+
+<!-- 鍙暀鎰挎剰鍏紑鐨勩€?-->
+
+- Email: `<you@example.com>`
+- Blog: `<https://...>`
+- X: `<@handle>`
