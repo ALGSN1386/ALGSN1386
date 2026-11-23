@@ -1,0 +1,27 @@
+name: 生成 TCP 调试助手 exe
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tcp-debug-assistant/TCP-Debug-Assistant.exe.b64'
+      - '.github/workflows/materialize-tcp-debug.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  materialize:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 解码二进制
+        run: |
+          mkdir -p tcp-debug-assistant
+          base64 -d tcp-debug-assistant/TCP-Debug-Assistant.exe.b64 > tcp-debug-assistant/TCP-Debug-Assistant.exe
+          sha256sum tcp-debug-assistant/TCP-Debug-Assistant.exe
+      - name: 提交 exe
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f tcp-debug-assistant/TCP-Debug-Assistant.exe
+          if git diff --cached --quiet; then echo "no changes"; else git commit -m "build: 生成 TCP 调试助手 exe [skip ci]"; git push; fi
