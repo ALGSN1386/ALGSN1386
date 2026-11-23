@@ -21,6 +21,12 @@ closed. Vanilla ES modules, no build step, saves to localStorage.
 Compresses and resizes images entirely in the browser — no upload, no server.
 Canvas API, zero dependencies, MIT licensed.
 
+
+**[tcp-debug-assistant](https://github.com/ALGSN1386/ALGSN1386/tree/main/tcp-debug-assistant)** · [download exe](https://github.com/ALGSN1386/ALGSN1386/raw/main/tcp-debug-assistant/TCP-Debug-Assistant.exe)
+A Windows TCP debugging tool for serial/network device bring-up: connect to any
+host:port, send and receive in HEX/ASCII/UTF-8, count RX/TX bytes, and log traffic
+to disk. Verifiable: 40,448-byte signed-off binary with a published SHA-256
+(`c16133c3…d99441`), rebuilt losslessly in CI from a base64 source.
 <!-- ============================================================
      加项目时的硬规则（渲染后不可见，编辑时天天看得见）：
      1. 没有 README 的项目不放
