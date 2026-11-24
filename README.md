@@ -21,6 +21,12 @@ closed. Vanilla ES modules, no build step, saves to localStorage.
 Compresses and resizes images entirely in the browser — no upload, no server.
 Canvas API, zero dependencies, MIT licensed.
 
+**[lumivision-lighting-advisor](https://github.com/ALGSN1386/lumivision-lighting-advisor)** · [live](https://lumivision-lighting-advisor.app.workbuddy.host/?sharecode=EZFQ7XEXKH)
+A lighting-design advisor for machine vision: pick a product, surface finish and
+inspection task, and a scoring engine ranks seven light-source types into primary
+and backup picks, with optical-path diagrams and commissioning notes.
+Single-file HTML, zero dependencies; the 8×6×6 scenario matrix and 0–3 scoring
+rules are all readable in the source.
 
 **[tcp-debug-assistant](https://github.com/ALGSN1386/ALGSN1386/tree/main/tcp-debug-assistant)** · [download exe](https://github.com/ALGSN1386/ALGSN1386/raw/main/tcp-debug-assistant/TCP-Debug-Assistant.exe)
 A Windows TCP debugging tool for serial/network device bring-up: connect to any
